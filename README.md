@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I'm good!**
 
+https://api.daily.dev/devcards/8b162ac5dbed404d9519492726e321fd.png?r=npw
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dawit_927" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dawit_927" height="30" width="40" /></a>
