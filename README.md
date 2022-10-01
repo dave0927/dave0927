@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I'm good!**
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/8b162ac5dbed404d9519492726e321fd.png?r=npw" width="400" alt="Dawit's Dev Card"/></a>
+<a href="https://app.daily.dev/Dave0927"><img src="https://api.daily.dev/devcards/8b162ac5dbed404d9519492726e321fd.png?r=npw" width="400" alt="Dawit's Dev Card"/></a>
 
 
 <h3 align="left">Connect with me:</h3>
