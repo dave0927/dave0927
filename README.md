@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dave0927" alt="dave0927" /></a> </p>
 
-- 💬 Ask me about **dart, flutter, firebase, unity, python, git, UI/UX **
+- 💬 Ask me about ** dart, flutter, firebase, unity, python, git, UI/UX **
 
 - 📫 How to reach me **dawittadesse927@gmail.com**
 
-- 👤 My other github account **https://github.com/dawit927**
+- 👤 My other github account ** https://github.com/dawit927 **
 
-- ⚡ Fun fact **I'm good! **
+- ⚡ Fun fact ** I'm good! **
 
 <a href="https://app.daily.dev/Dave0927"><img src="https://api.daily.dev/devcards/8b162ac5dbed404d9519492726e321fd.png?r=npw" width="400" alt="Dawit's Dev Card"/></a>
 
