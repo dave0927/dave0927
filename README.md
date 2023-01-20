@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dave0927" alt="dave0927" /></a> </p>
 
-- 💬 Ask me about ** HTML, CSS, JS, | dart, flutter, firebase, unity, python, git, UI/UX **
+- 💬 Ask me about ** HTML, CSS, JS | dart, flutter, firebase | unity, python, git, UI/UX **
 
 - 📫 How to reach me **dawittadesse927@gmail.com**
 
