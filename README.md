@@ -35,7 +35,7 @@
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![D](https://img.shields.io/badge/-Dart-blue.svg?style=for-the-badge&logo=dart&logoColor=white)
+    ![Dart](https://img.shields.io/badge/-Dart-blue.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 <br>   
     
@@ -60,22 +60,19 @@
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Unity](https://img.shields.io/badge/-unity-lightgrey?style=for-the-badge&logo=unity&logoColor=white)
+    ![Godot](https://img.shields.io/badge/-godot-blueviolet?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 <br>
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
+   ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 </p>
 
 <br>
-<br>
-
------
-
 <br>
 
 
@@ -83,12 +80,10 @@
 <br>
 
 <div align="center">
-
-<a href="https://github.com/dave0927/">
-  <img src="https://github-readme-stats.vercel.app/api?username=dave0927&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dave0927&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="dave0927"/>
-
-</a>
+	<img src="https://komarev.com/ghpvc/?username=dave0927&label=Profile%20views&color=0e75b6&style=flat" alt="dave0927" /> <br>
+	<a href="https://github.com/ryo-ma/github-profile-trophy"> <br>
+	<img src="https://github-profile-trophy.vercel.app/?username=dave0927" alt="dave0927" /></a> <br>
+	
 </div>
 
 <br>
@@ -128,17 +123,23 @@
 </a>
 </li>
 	
+<br>
+
+<li>
+<a href="https://github.com/dawit927" target="_blank">
+<img src="https://img.shields.io/badge/-dawittadesse-black.svg?style=for-the-badge&logo=github&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>	
+	
 </ul>
 </div>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
-
 <div align='center'>
-
-## <b>Stay Wild... ✌</b>
-
+	<b>Stay Wild... ✌ </b> <br> <br>
+	<a href="https://www.buymeacoffee.com/dawi927"> 
+		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dawi927" />
+	</a>
 </div>
