@@ -19,8 +19,8 @@
 - I love using Software as a solution for every Problem
 - Currently learning Software Development at ALX
 - I’m looking for help with anything I am currently learning! 😅
-- Personal website [link](#)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/kenadams)
+- My other github account [Dawit Tadese](https://github.com/dawit927)
+- I’m currently open for an Intern or a new job opportunity, this is [My Resume](https://read.cv/kenadams)
 
 <br><br>
 
@@ -124,12 +124,6 @@
 </li>
 	
 <br>
-
-<li>
-<a href="https://github.com/dawit927" target="_blank">
-<img src="https://img.shields.io/badge/-dawittadesse-black.svg?style=for-the-badge&logo=github&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>	
 	
 </ul>
 </div>
