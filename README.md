@@ -80,7 +80,6 @@
 <br>
 
 <div align="center">
-	<img src="https://komarev.com/ghpvc/?username=dave0927&label=Profile%20views&color=0e75b6&style=flat" alt="dave0927" /> <br>
 	<a href="https://github.com/dave0927"> <br>
 	<img src="https://github-profile-trophy.vercel.app/?username=dave0927&no-bg=true&theme=darkhub" alt="dave0927" /></a> <br>
 </div>
