@@ -81,7 +81,7 @@
 
 <div align="center">
 	<a href="https://github.com/dave0927"> <br>
-	<img src="https://github-profile-trophy.vercel.app/?username=dave0927&no-bg=true&theme=darkhub" alt="dave0927" /></a> <br>
+	<img src="https://github-profile-trophy.vercel.app/?username=dave0927&no-bg=true&theme=darkhub&row=2&column=3" alt="dave0927" /></a> <br>
 </div>
 <br>
 <br>
