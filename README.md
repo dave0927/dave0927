@@ -75,23 +75,6 @@
 <br>
 <br>
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-	<a href="https://github.com/dave0927"> <br>
-	<img src="https://github-profile-trophy.vercel.app/?username=dave0927&no-bg=true&theme=darkhub&row=2&column=3" alt="dave0927" /></a> <br>
-</div>
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
 ## <b> Let's Connect..!</b><img src="https://github.com/dave0927/dave0927/blob/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
