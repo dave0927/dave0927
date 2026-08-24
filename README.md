@@ -90,45 +90,15 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/dave0927/dave0927/blob/main/assets/mdImages/handshake.gif" width ="80">
+- **Let's Connect..!** <img src="https://github.com/dave0927/dave0927/blob/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/0xDawit" target="_blank">
-<img src="https://img.shields.io/badge/-dawittadesse-9cf.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="https://twitter.com/0xDawit" target="_blank">
-<img src="https://img.shields.io/badge/-dawittadesse-blue.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:dawittadesse927@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/-dawittadesse-red.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-<br>
+	<a href="https://www.linkedin.com/in/0xDawit" target="_blank">
+	<img src="https://img.shields.io/badge/-dawittadesse-9cf.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+	</a>
+	<br>
+	<a href="mailto:dawittadesse927@gmail.com" target="_blank">
+	<img src="https://img.shields.io/badge/-dawittadesse-red.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+	</a>
 	
 </ul>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<div align='center'>
-	<b>Stay Wild... ✌ </b> <br> <br>
-	<a href="https://www.buymeacoffee.com/dawi927"> 
-		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dawi927" />
-	</a>
 </div>
